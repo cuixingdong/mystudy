@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+body {
+  background-color: rgb(150, 150, 206);
+}
+li {
+  font-size: 35px;
+  padding-left: 50px;
+}
+li:nth-child(1) {
+  font-size: 100px;
+}
